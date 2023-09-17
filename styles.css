@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #14495e;
+  background: #5e144c;
 }
 
 .eyes {
@@ -24,7 +24,7 @@ body {
 .ball {
   width: 80px;
   height: 80px;
-  background: #000;
+  background: #01022b;
   position: absolute;
   top: 50%;
   left: 50%;
